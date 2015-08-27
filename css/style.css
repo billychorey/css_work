@@ -1,0 +1,24 @@
+h1{
+    color: green;
+    font-weight: normal;
+    font-family: helvetica;
+
+}
+
+p{
+	background: yellow;
+}
+
+#p_1{
+	background: blue; color: white;
+}
+
+.wrapper{
+	width:50%;
+	margin: 30px auto;
+	border: 1px solid red;
+	padding: 5%
+}
+.w1 h1{
+	color:orange;
+}
