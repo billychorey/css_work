@@ -8,60 +8,62 @@
 .red{
 	background-color: #f60005;
 	height: 60px;
-	width: 570px;
+	width: 100%;
+
 	clear: both;
 	margin-bottom: 10px;
 	
 }
 
 #blue{
-	padding: 10;
+	/*padding: 10;*/
 	background-color: #49baf2;	
 	height: 420px;
-	width: 340px;
+	width: 60%;
 	float: left;
 	margin-bottom: 10px;
 }
 
 #purple{
 	background-color: #8b7bbb;	
-	height: 210px;
-	width: 104px;
+	height: 44%;
+	width: 30%;
 	float: left;
-	margin-bottom: 10px;
+	margin: 4% 0% 4% 5%;
 }
 
 #orange{
 	background-color: #e96526;	
-	height: 210px;
-	width: 104px;
+	height: 44%;
+	width: 30%;
 	float: left;
-	margin-bottom: 10px;
+	margin: 4% 0% 0% 0%;
 
 
 }
 #green{
 	background-color: #3fbb4d;	
-	height: 210px;
-	width: 104px;
+	height: 44%;
+	width: 30%;
 	float: left;
-	margin-bottom: 10px;
+	margin: 4% 5% 4% 0%;
 
 }
 
 #yellow{
 	background-color: #f8ff28;
-	height: 440px;
-	width: 210px;
+	height: 420px;
+	width: 40%;
 	float: left;
 	margin-bottom: 10px;
 
 }
 #pink{
 	background-color: #f094c1;	
-	height: 190px;
-	width: 312px;
+	height: 44%;
+	width: 90%;
 	float: left;
+	margin: 0 5% 0 5%;
 
 
 

@@ -1,5 +1,5 @@
 .wrapper{
-	width:770px;
+	width:750px;
 	margin: 0 auto;
 	
 
@@ -14,9 +14,9 @@
 }
 
 #blue{
-	padding: 15;
+	/*padding: 15;*/
 	background-color: #49baf2;	
-	height: 350px;
+	height: 400px;
 	width: 70%;
 	float: left;
 	margin-bottom: 10px;
@@ -24,16 +24,16 @@
 
 #orange{
 	background-color: #e96526;	
-	height: 320px;
-	width: 240px;
+	height: 90%;
+	width: 40%;
 	float: left;
-	/*margin-bottom: 10px;*/
+	margin: 5% 45% 5% 5%;
 }
 
 #yellow{
-	padding: 15;
+	/*padding: 15;*/
 	background-color: #f8ff28;	
-	height: 350px;
+	height: 400px;
 	width: 30%;
 	float: left;
 	margin-bottom: 10px;
@@ -42,40 +42,43 @@
 }
 #purple1{
 	background-color: #8b7bbb;	
-	height: 320px;
-	width: 105px;
+	height: 90%;
+	width: 45%;
 	float: left;
+	margin: 5% 0% 5% 5%;
 	
 
 }
 
 #green1{
 	background-color: #3fbb4d;
-	height: 320px;
-	width: 105px;
+	height: 90%;
+	width: 45%;
 	float: left;
-	margin-bottom: 10px;
+	margin: 5% 5% 5% 0%;
 
 }
 #pink{
-	padding: 15;
+	/*padding: 15;*/
 	background-color: #f094c1;	
-	height: 260px;
+	height: 300px;
 	width: 100%;
 	float: left;
-	margin-bottom:10;
+	margin-bottom:10px;
 }
 #purple2{
 	background-color: #8b7bbb;	
-	height: 230px;
-	width: 365px;
+	height: 90%;
+	width: 45%;
 	float: left;
+	margin: 5% 0% 0% 5%;
 	
 }
 }
 #green2{
 	background-color: #3fbb4d;	
-	height: 230px;
-	width: 365px;
+	height: 90%;
+	width: 45%;
 	float: left;
+	margin: 5% 0% 5% 0%;
 }
