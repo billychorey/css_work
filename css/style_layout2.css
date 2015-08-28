@@ -19,34 +19,37 @@
 	/*padding: 10;*/
 	background-color: #49baf2;	
 	height: 420px;
-	width: 60%;
+	width: 54%;
 	float: left;
 	margin-bottom: 10px;
+	padding:3%;
 }
 
 #purple{
 	background-color: #8b7bbb;	
-	height: 44%;
-	width: 30%;
+	height: 210px;
+	width: 33.333%;
 	float: left;
-	margin: 4% 0% 4% 5%;
+	margin-bottom: 10px;
+	
 }
 
 #orange{
 	background-color: #e96526;	
-	height: 44%;
-	width: 30%;
+	height: 210px;
+	width: 33.333%;
 	float: left;
-	margin: 4% 0% 0% 0%;
+	margin-bottom: 10px;
 
 
 }
 #green{
 	background-color: #3fbb4d;	
-	height: 44%;
-	width: 30%;
+	height: 210px;
+	width: 33.333%;
 	float: left;
-	margin: 4% 5% 4% 0%;
+	margin-bottom: 10px;
+	
 
 }
 
@@ -56,14 +59,16 @@
 	width: 40%;
 	float: left;
 	margin-bottom: 10px;
+	padding-bottom: 6%;
 
 }
 #pink{
 	background-color: #f094c1;	
-	height: 44%;
-	width: 90%;
+	height: 210;
+	width: 100%;
 	float: left;
-	margin: 0 5% 0 5%;
+
+	
 
 
 

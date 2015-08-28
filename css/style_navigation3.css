@@ -1,6 +1,22 @@
 nav{
 	font-family: Helvetica, sans-serif;
-	background: #e9631c;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f47912+0,df4d2b+100 */
+	background: #f47912; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f47912 0%, #df4d2b 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f47912), color-stop(100%,#df4d2b)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f47912 0%,#df4d2b 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f47912 0%,#df4d2b 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f47912 0%,#df4d2b 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f47912 0%,#df4d2b 100%); /* W3C */
+
+
+  	border-width: 3px;   /* defaults to medium */
+  	border-color: darkred;   /* defaults to color (literally, the color property) */
+  	border-style: solid; /* defaults to none */
+
+
+
+	border-radius: 8px;
 	width: 55%;
 	margin: 15 auto;
 }
@@ -15,16 +31,24 @@ ul{
 
 li{
 	display: inline-block;
-	margin: 20px 10px;
+	/*margin: 20px 10px;*/
+	border-right: 3px solid darkred;
+	padding:0px 20px 0px 20px;
+
 
 }
+li:last-child{
+	border-right:none;
+}
+
+
 
 a{
 	
-	box-shadow: 0px -3px 5px rgba(0,0,0,0.5);
+	
 	padding: 25px 50px;
 	border-radius: 5px;
-	background: #60b5ee;
+	
 	text-decoration: none;
 	color: white;
 	display: block;
@@ -33,3 +57,5 @@ a{
 	text-shadow: 0 -2px 2px rgba(0,0,0,0.5);
 	padding:15px;  
 }
+
+ 
