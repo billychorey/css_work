@@ -1,5 +1,5 @@
 .wrapper{
-	width:770px;
+	width:800px;
 	margin: 0 auto;
 	
 
@@ -17,7 +17,7 @@
 #blue{
 	padding: 10;
 	background-color: #49baf2;	
-	height: 440px;
+	height: 420px;
 	width: 340px;
 	float: left;
 	margin-bottom: 10px;
@@ -52,7 +52,7 @@
 #yellow{
 	background-color: #f8ff28;
 	height: 440px;
-	width: 230px;
+	width: 210px;
 	float: left;
 	margin-bottom: 10px;
 
@@ -62,7 +62,7 @@
 	height: 190px;
 	width: 312px;
 	float: left;
-	margin-bottom: 10px;
+
 
 
 
